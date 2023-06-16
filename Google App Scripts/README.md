@@ -27,6 +27,6 @@ Da click en la opción de *Ejecutar* para correr el programa. Nota: si es la pri
 
 En caso de haber implementaciones más complejas, las instrucciones serán especificadas en cada *script*.
 
-##Como Agregar *App Scripts* al repositorio <a name="agregar"></a>
+## Como Agregar *App Scripts* al repositorio <a name="agregar"></a>
 
 ## Cómo Escribir los *Scripts* <a name="formato"></a>
